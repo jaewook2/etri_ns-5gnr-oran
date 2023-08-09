@@ -3,7 +3,7 @@ set(base_examples
     l3-rrc-example
     oran-interface-example
     ric-control-function-desc
-r   ic-indication-messages
+    ric-indication-messages
     test-wrappers
 )
 
